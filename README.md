@@ -1,4 +1,4 @@
-# Open Source Resume
+# Open Source Resumes
 
 Need a resume refresh? Download and customize one of the resumes in this repo. Resume files are in Sketch and in packaged InDesign files.
 
