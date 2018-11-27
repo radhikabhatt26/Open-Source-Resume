@@ -1,0 +1,428 @@
+%!Adobe-FontList 1.20
+%Locale:0x409
+
+%BeginFont
+Handler:DirectoryHandler
+FontType:TrueType
+FontName:Arvo-Bold
+FamilyName:Arvo
+StyleName:Bold
+MenuName:Arvo
+StyleBits:2
+WeightClass:700
+WidthClass:5
+AngleClass:0
+FullName:Arvo Bold
+WritingScript:Roman
+OutlineFileName:/Users/radhika.bhatt/Desktop/projects/Open-Source-Resume/Open Source Resume [Packaged InDesign File]/Document fonts/Arvo-Bold.ttf
+DataFormat:sfntData
+hasSVG:no
+VariableFontType:NonVariableFont
+FileLength:37400
+FileModTime:564985007
+NameArray:0,Mac,18,Arvo Bold
+NameArray:0,Mac,4,Arvo Bold
+NameArray:0,Win,1,Arvo
+NameArray:0,Win,16,Arvo
+%EndFont
+
+%BeginFont
+Handler:DirectoryHandler
+FontType:TrueType
+FontName:Arvo
+FamilyName:Arvo
+StyleName:Regular
+MenuName:Arvo
+StyleBits:0
+WeightClass:400
+WidthClass:5
+AngleClass:0
+FullName:Arvo
+WritingScript:Roman
+OutlineFileName:/Users/radhika.bhatt/Desktop/projects/Open-Source-Resume/Open Source Resume [Packaged InDesign File]/Document fonts/Arvo-Regular.ttf
+DataFormat:sfntData
+hasSVG:no
+VariableFontType:NonVariableFont
+FileLength:40340
+FileModTime:564985007
+NameArray:0,Mac,18,Arvo
+NameArray:0,Mac,4,Arvo
+NameArray:0,Win,1,Arvo
+NameArray:0,Win,16,Arvo
+%EndFont
+
+%BeginFont
+Handler:DirectoryHandler
+FontType:TrueType
+FontName:Lato-Bold
+FamilyName:Lato
+StyleName:Bold
+MenuName:Lato
+StyleBits:2
+WeightClass:700
+WidthClass:5
+AngleClass:0
+FullName:Lato Bold
+WritingScript:Roman
+OutlineFileName:/Users/radhika.bhatt/Desktop/projects/Open-Source-Resume/Open Source Resume [Packaged InDesign File]/Document fonts/Lato-Bold.ttf
+DataFormat:sfntData
+hasSVG:no
+VariableFontType:NonVariableFont
+FileLength:121788
+FileModTime:564985007
+NameArray:0,Mac,4,Lato Bold
+NameArray:0,Win,1,Lato
+%EndFont
+
+%BeginFont
+Handler:DirectoryHandler
+FontType:TrueType
+FontName:Lato-Italic
+FamilyName:Lato
+StyleName:Italic
+MenuName:Lato
+StyleBits:1
+WeightClass:400
+WidthClass:5
+AngleClass:1
+FullName:Lato Italic
+WritingScript:Roman
+OutlineFileName:/Users/radhika.bhatt/Desktop/projects/Open-Source-Resume/Open Source Resume [Packaged InDesign File]/Document fonts/Lato-Italic.ttf
+DataFormat:sfntData
+hasSVG:no
+VariableFontType:NonVariableFont
+FileLength:118352
+FileModTime:564985007
+NameArray:0,Mac,4,Lato Italic
+NameArray:0,Win,1,Lato
+%EndFont
+
+%BeginFont
+Handler:DirectoryHandler
+FontType:TrueType
+FontName:Lato-Regular
+FamilyName:Lato
+StyleName:Regular
+MenuName:Lato
+StyleBits:0
+WeightClass:400
+WidthClass:5
+AngleClass:0
+FullName:Lato Regular
+WritingScript:Roman
+OutlineFileName:/Users/radhika.bhatt/Desktop/projects/Open-Source-Resume/Open Source Resume [Packaged InDesign File]/Document fonts/Lato-Regular.ttf
+DataFormat:sfntData
+hasSVG:no
+VariableFontType:NonVariableFont
+FileLength:120196
+FileModTime:564985007
+NameArray:0,Mac,4,Lato Regular
+NameArray:0,Win,1,Lato
+%EndFont
+
+%BeginFont
+Handler:DirectoryHandler
+FontType:TrueType
+FontName:Merriweather-Bold
+FamilyName:Merriweather
+StyleName:Bold
+MenuName:Merriweather
+StyleBits:2
+WeightClass:700
+WidthClass:5
+AngleClass:0
+FullName:Merriweather Bold
+WritingScript:Roman
+OutlineFileName:/Users/radhika.bhatt/Desktop/projects/Open-Source-Resume/Open Source Resume [Packaged InDesign File]/Document fonts/Merriweather-Bold.ttf
+DataFormat:sfntData
+hasSVG:no
+VariableFontType:NonVariableFont
+FileLength:149112
+FileModTime:564985007
+NameArray:0,Mac,4,Merriweather Bold
+NameArray:0,Win,1,Merriweather
+%EndFont
+
+%BeginFont
+Handler:DirectoryHandler
+FontType:TrueType
+FontName:Merriweather-Italic
+FamilyName:Merriweather
+StyleName:Italic
+MenuName:Merriweather
+StyleBits:1
+WeightClass:400
+WidthClass:5
+AngleClass:1
+FullName:Merriweather Italic
+WritingScript:Roman
+OutlineFileName:/Users/radhika.bhatt/Desktop/projects/Open-Source-Resume/Open Source Resume [Packaged InDesign File]/Document fonts/Merriweather-Italic.ttf
+DataFormat:sfntData
+hasSVG:no
+VariableFontType:NonVariableFont
+FileLength:149340
+FileModTime:564985007
+NameArray:0,Mac,4,Merriweather Italic
+NameArray:0,Win,1,Merriweather
+%EndFont
+
+%BeginFont
+Handler:DirectoryHandler
+FontType:TrueType
+FontName:Merriweather-Regular
+FamilyName:Merriweather
+StyleName:Regular
+MenuName:Merriweather
+StyleBits:0
+WeightClass:400
+WidthClass:5
+AngleClass:0
+FullName:Merriweather Regular
+WritingScript:Roman
+OutlineFileName:/Users/radhika.bhatt/Desktop/projects/Open-Source-Resume/Open Source Resume [Packaged InDesign File]/Document fonts/Merriweather-Regular.ttf
+DataFormat:sfntData
+hasSVG:no
+VariableFontType:NonVariableFont
+FileLength:156096
+FileModTime:564985007
+NameArray:0,Mac,4,Merriweather Regular
+NameArray:0,Win,1,Merriweather
+%EndFont
+
+%BeginFont
+Handler:DirectoryHandler
+FontType:Type1
+FontName:MinionPro-Regular
+FamilyName:Minion Pro
+StyleName:Regular
+MenuName:Minion Pro
+StyleBits:0
+WeightClass:400
+WidthClass:5
+AngleClass:0
+FullName:Minion Pro
+WritingScript:Roman
+OutlineFileName:/Users/radhika.bhatt/Desktop/projects/Open-Source-Resume/Open Source Resume [Packaged InDesign File]/Document fonts/MinionPro-Regular.otf
+DataFormat:sfntData
+UsesStandardEncoding:yes
+isCFF:yes
+hasSVG:no
+VariableFontType:NonVariableFont
+FileLength:218640
+FileModTime:564435588
+DesignSize:110
+NameArray:0,Mac,4,Minion Pro
+NameArray:0,Win,1,Minion Pro
+%EndFont
+
+%BeginFont
+Handler:DirectoryHandler
+FontType:TrueType
+FontName:Overpass-Bold
+FamilyName:Overpass
+StyleName:Bold
+MenuName:Overpass
+StyleBits:2
+WeightClass:700
+WidthClass:5
+AngleClass:0
+FullName:Overpass Bold
+WritingScript:Roman
+OutlineFileName:/Users/radhika.bhatt/Desktop/projects/Open-Source-Resume/Open Source Resume [Packaged InDesign File]/Document fonts/Overpass-Bold.ttf
+DataFormat:sfntData
+hasSVG:no
+VariableFontType:NonVariableFont
+FileLength:123228
+FileModTime:502347600
+NameArray:0,Mac,4,Overpass Bold
+NameArray:0,Win,1,Overpass
+%EndFont
+
+%BeginFont
+Handler:DirectoryHandler
+FontType:TrueType
+FontName:Overpass-Italic
+FamilyName:Overpass
+StyleName:Italic
+MenuName:Overpass
+StyleBits:1
+WeightClass:400
+WidthClass:5
+AngleClass:1
+FullName:Overpass Italic
+WritingScript:Roman
+OutlineFileName:/Users/radhika.bhatt/Desktop/projects/Open-Source-Resume/Open Source Resume [Packaged InDesign File]/Document fonts/Overpass-Italic.ttf
+DataFormat:sfntData
+hasSVG:no
+VariableFontType:NonVariableFont
+FileLength:128680
+FileModTime:502347600
+NameArray:0,Mac,4,Overpass Italic
+NameArray:0,Win,1,Overpass
+%EndFont
+
+%BeginFont
+Handler:DirectoryHandler
+FontType:TrueType
+FontName:Overpass-Regular
+FamilyName:Overpass
+StyleName:Regular
+MenuName:Overpass
+StyleBits:0
+WeightClass:400
+WidthClass:5
+AngleClass:0
+FullName:Overpass Regular
+WritingScript:Roman
+OutlineFileName:/Users/radhika.bhatt/Desktop/projects/Open-Source-Resume/Open Source Resume [Packaged InDesign File]/Document fonts/Overpass-Regular.ttf
+DataFormat:sfntData
+hasSVG:no
+VariableFontType:NonVariableFont
+FileLength:124080
+FileModTime:502347600
+NameArray:0,Mac,4,Overpass Regular
+NameArray:0,Win,1,Overpass
+%EndFont
+
+%BeginFont
+Handler:DirectoryHandler
+FontType:TrueType
+FontName:PermanentMarker
+FamilyName:Permanent Marker
+StyleName:Regular
+MenuName:Permanent Marker
+StyleBits:0
+WeightClass:400
+WidthClass:5
+AngleClass:0
+FullName:Permanent Marker
+WritingScript:Roman
+OutlineFileName:/Users/radhika.bhatt/Desktop/projects/Open-Source-Resume/Open Source Resume [Packaged InDesign File]/Document fonts/PermanentMarker.ttf
+DataFormat:sfntData
+hasSVG:no
+VariableFontType:NonVariableFont
+FileLength:74752
+FileModTime:315982800
+NameArray:0,Mac,18,Permanent Marker
+NameArray:0,Mac,4,Permanent Marker
+NameArray:0,Win,1,Permanent Marker
+NameArray:0,Win,16,Permanent Marker
+%EndFont
+
+%BeginFont
+Handler:DirectoryHandler
+FontType:TrueType
+FontName:Quicksand-Medium
+FamilyName:Quicksand
+StyleName:Medium
+MenuName:Quicksand Medium
+StyleBits:0
+WeightClass:500
+WidthClass:5
+AngleClass:0
+FullName:Quicksand Medium
+WritingScript:Roman
+OutlineFileName:/Users/radhika.bhatt/Desktop/projects/Open-Source-Resume/Open Source Resume [Packaged InDesign File]/Document fonts/Quicksand-Medium.ttf
+DataFormat:sfntData
+hasSVG:no
+VariableFontType:NonVariableFont
+FileLength:106468
+FileModTime:564985007
+NameArray:0,Mac,4,Quicksand Medium
+NameArray:0,Win,1,Quicksand Medium
+NameArray:0,Win,16,Quicksand
+%EndFont
+
+%BeginFont
+Handler:DirectoryHandler
+FontType:TrueType
+FontName:Raleway-Bold
+FamilyName:Raleway
+StyleName:Bold
+MenuName:Raleway
+StyleBits:2
+WeightClass:700
+WidthClass:5
+AngleClass:0
+FullName:Raleway Bold
+WritingScript:Roman
+OutlineFileName:/Users/radhika.bhatt/Desktop/projects/Open-Source-Resume/Open Source Resume [Packaged InDesign File]/Document fonts/Raleway-Bold.ttf
+DataFormat:sfntData
+hasSVG:no
+VariableFontType:NonVariableFont
+FileLength:179244
+FileModTime:564985007
+NameArray:0,Mac,4,Raleway Bold
+NameArray:0,Win,1,Raleway
+%EndFont
+
+%BeginFont
+Handler:DirectoryHandler
+FontType:TrueType
+FontName:Raleway-Italic
+FamilyName:Raleway
+StyleName:Italic
+MenuName:Raleway
+StyleBits:1
+WeightClass:400
+WidthClass:5
+AngleClass:1
+FullName:Raleway Italic
+WritingScript:Roman
+OutlineFileName:/Users/radhika.bhatt/Desktop/projects/Open-Source-Resume/Open Source Resume [Packaged InDesign File]/Document fonts/Raleway-Italic.ttf
+DataFormat:sfntData
+hasSVG:no
+VariableFontType:NonVariableFont
+FileLength:145920
+FileModTime:564985007
+NameArray:0,Mac,4,Raleway Italic
+NameArray:0,Win,1,Raleway
+%EndFont
+
+%BeginFont
+Handler:DirectoryHandler
+FontType:TrueType
+FontName:Raleway-Medium
+FamilyName:Raleway
+StyleName:Medium
+MenuName:Raleway Medium
+StyleBits:0
+WeightClass:500
+WidthClass:5
+AngleClass:0
+FullName:Raleway Medium
+WritingScript:Roman
+OutlineFileName:/Users/radhika.bhatt/Desktop/projects/Open-Source-Resume/Open Source Resume [Packaged InDesign File]/Document fonts/Raleway-Medium.ttf
+DataFormat:sfntData
+hasSVG:no
+VariableFontType:NonVariableFont
+FileLength:179444
+FileModTime:564985007
+NameArray:0,Mac,4,Raleway Medium
+NameArray:0,Win,1,Raleway Medium
+NameArray:0,Win,16,Raleway
+%EndFont
+
+%BeginFont
+Handler:DirectoryHandler
+FontType:TrueType
+FontName:Raleway-Regular
+FamilyName:Raleway
+StyleName:Regular
+MenuName:Raleway
+StyleBits:0
+WeightClass:400
+WidthClass:5
+AngleClass:0
+FullName:Raleway
+WritingScript:Roman
+OutlineFileName:/Users/radhika.bhatt/Desktop/projects/Open-Source-Resume/Open Source Resume [Packaged InDesign File]/Document fonts/Raleway-Regular.ttf
+DataFormat:sfntData
+hasSVG:no
+VariableFontType:NonVariableFont
+FileLength:178520
+FileModTime:564985007
+NameArray:0,Mac,4,Raleway
+NameArray:0,Win,1,Raleway
+%EndFont
+
